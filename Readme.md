@@ -8,3 +8,5 @@ TODO:
 
 
 All participants should the practice sets solutions to the folders with their names.
+
+After completing assignments send a pull request to assignments branch
